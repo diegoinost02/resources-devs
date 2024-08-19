@@ -1,6 +1,6 @@
 # Resources Dev
 
-Recursos y herramientas para desarrolladores.
+Recursos y herramientas de desarrollo.
 
 <img width="850" alt="resources" src="https://github.com/user-attachments/assets/858eff9b-9d22-4d22-a62b-30643367d461">
 
