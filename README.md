@@ -12,4 +12,9 @@ Recursos y herramientas para desarrolladores.
 
 ## Feedback
 
+> El blog es impresionante. Me encanta el estilo minimalista que has logrado, ya que crea una experiencia de lectura limpia y enfocada. Felicidades por el excelente trabajo.
+>
+> — @josvaal
+
+
 Si tienes `sugerencias` o encuentras algún `error/bug`, por favor [abre una Issue](https://github.com/diegoinost02/resources/issues).
